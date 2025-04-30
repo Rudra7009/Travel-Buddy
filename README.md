@@ -1,5 +1,5 @@
 # Travel-Buddy
-The Trip Budget &amp; Cost Estimator is a web application designed to assist users in organizing and estimating the costs of an upcoming trip
+The Trip Budget &amp; Cost Estimator is a web application designed to assist users in organizing and estimating the costs of an upcoming trip.
 
 ## Overview
 
@@ -32,3 +32,6 @@ You only need a modern web browser (Chrome, Firefox, Safari, etc.) to run this p
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Rudra7009/Travel-buddy.git
+
+## Link to website 
+- **Website:** [Travel-Buddy](https://travel-buddy-seven-wheat.vercel.app)
